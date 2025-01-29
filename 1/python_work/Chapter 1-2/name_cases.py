@@ -1,3 +1,7 @@
+# This is a task given by the book I'm studying python from
+#It's bassicaly a recapitulative code on f-strings variables
+#lower, upper, title functions and striping funcitons as well 
+# as using the removesuffix & remove prefix functions
 name = "Eric"
 message = f"Hello {name}, would you like to learn some Python today?"
 print(message)
