@@ -32,3 +32,18 @@ print(multiples)
 
 cube = [value **3 for value in range (1,11)]
 print(cube)
+
+#Using one of the programs you wrote in this chapter, add several
+#lines to the end of the program that do the following
+
+my_foods = ['pizza', 'falafel', 'carrot cake', 'Macaroni chese', 'eggs']
+
+
+print("The first three items in the list are:")
+print(my_foods[:3])
+
+print("Three items from the middle of the list are:")
+print(my_foods[1:4])
+
+print("The last three items in the list are:")
+print(my_foods[-3:])
