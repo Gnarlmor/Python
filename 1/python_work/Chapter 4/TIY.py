@@ -47,3 +47,16 @@ print(my_foods[1:4])
 
 print("The last three items in the list are:")
 print(my_foods[-3:])
+
+#A buffet-style restaurant offers only five basic foods. Think of 
+# five simple foods, and store them in a tuple.
+
+menu = ('Supa Crem', 'Egg Roll', 'Croisan', 'Pasta', 'Pizza')
+for food in menu:
+    print(food)
+
+#Change 2 foods in the menu tuple
+
+menu = ('Udon', 'Egg Roll', 'Curry', 'Pasta', 'Pizza')
+for food in menu:
+    print(food)
